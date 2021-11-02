@@ -5,8 +5,6 @@ The aim of this tutorial is to introduce the iteration operations in Haskell. Pr
 
 Attempt the exercises in your own time before Friday's lab. Use those sessions for asking questions related to the exercises and obtaining feedback on your work.
 
-There are  **two assessed exercises**  on this sheet
-
 ## Exercise One
 
 Using a list comprehension, give an expression that calculates the sum of the squares of odd numbers and cubes of even numbers for the first 100 integers.
